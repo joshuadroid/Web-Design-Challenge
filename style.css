@@ -1,0 +1,21 @@
+.box{
+    background-color: white;
+    padding-left: 5%;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+.container{
+    background-color: lightgray;
+}
+
+.page {
+    background-color: gray;
+}
+
+.row {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
