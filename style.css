@@ -1,21 +1,25 @@
-.box{
-    background-color: white;
-    padding-left: 5%;
-    margin: 10px;
-    margin-top: 50px;
-}
+
 
 .container{
-    background-color: lightgray;
+    display: flex;
 }
 
 .page {
-    background-color: gray;
+    background-color: lightgray;
 }
 
-.row {
-    margin-top: 5%;
-    margin-left: 10%;
-    margin-right: 10%;
+.col-md-9 {
+    background-color: white;
+}
+.col-md-3 {
+    background-color: brown;
+}
+.text{
+    font-size: medium
 }
 
+.img-thumbnail {
+    max-height: 250px;
+    max-width: 250px;
+    margin: 30px 30px 30px 30px;
+}
